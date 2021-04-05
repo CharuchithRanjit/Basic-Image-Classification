@@ -6,4 +6,4 @@ The dataset did not need much work to be done, as there was no imputation requir
 One hot encoding was done for categorical columns.
 In terms of preprocessing, reshaping and normalization was done.
 Then the model was made and trained.
-Accurace was checked in the end
+Accuracy was checked in the end
